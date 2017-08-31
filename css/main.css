@@ -1,0 +1,66 @@
+
+/* Navabar Styles */
+nav.navbar{
+	background: linear-gradient(to right, #347eff, #1ea3ff);
+}
+.navbar-link{
+	color: white;
+}
+.navbar-item{
+	color: white;
+}
+.table th{
+	text-align: center;
+}
+
+/* Title Styles */
+.back-image{
+	background-image: url('../img/Photo1.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 50% 30%;
+}
+
+/* Table Styles */
+td {
+	text-align: center;
+}
+.table{
+	margin: auto;
+}
+.rd{
+	background-color: #dbe842;
+	color:  white;
+}
+.bd{
+	background-color: #85cc83;
+	color:  white;
+}
+.research{
+	background-color: #fadddb;
+	color:  white;
+}
+.micros{
+	background-color: #faa37f;
+	color:  white;
+}
+.cv{
+	background-color: #998f7e;
+	color:  white;
+}
+.comida{
+	background-color: #5c9ead;
+	color:  white;
+}
+
+/* Image */
+img.circle{
+	border-radius: 20rem;
+}
+.center-img {
+	margin: auto;
+}
+
+
+
+
